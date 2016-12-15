@@ -16,6 +16,6 @@ public class BeanRepresenter {
             System.out.println("__________________________________");
             System.out.println("|   " + field.getName().toString() + "   |   " + result + "     |");
         }
-            System.out.println("---------------------------------");
+        System.out.println("---------------------------------");
     }
 }
